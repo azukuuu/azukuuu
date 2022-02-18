@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azukuuu
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning ML and Frontend
 - 💞️ I’m looking to collaborate on some future projects
 - 📫 @azukumail@gmail.com
 
